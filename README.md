@@ -3,8 +3,8 @@
 
 # TrainRadar — Live Train Map & Real-Time Train Tracker
 
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/pedrolucas7i/trainradar)
-[![Demo](https://img.shields.io/badge/demo-trainradar.vercel.app-brightgreen.svg)](https://trainradar.vercel.app/)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/pedrolucas7i/trainradarworld)
+[![Demo](https://img.shields.io/badge/demo-trainradar.vercel.app-brightgreen.svg)](https://trainradar.world/)
 
 **TrainRadar** is a real-time train tracking platform that aggregates publicly available railway data and visualizes live train positions on an interactive map.
 
